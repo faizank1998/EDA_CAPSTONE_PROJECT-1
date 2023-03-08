@@ -53,6 +53,9 @@ Majority of guests have shown interest in the room type 'A'. Room type 'A' is th
 
 
 Variable Descripton
+
+
+
 hotel : Name of the hotel (Resort Hotel or City Hotel)
 
 is_Canceled : if the booking was Cancelled(1) or not (0)
